@@ -156,8 +156,7 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-
+ELIAS ESHETU - [github](https://github.com/gladdiius)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
-this folder contains all the solutins for 0x05. AirBnB clone - RESTful API project
