@@ -160,3 +160,4 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+this folder contains all the solutins for 0x05. AirBnB clone - RESTful API project
