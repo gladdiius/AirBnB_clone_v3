@@ -39,6 +39,13 @@ class FileStorage:
         if obj is not None:
             key = obj.__class__.__name__ + "." + obj.id
             self.__objects[key] = obj
+    def get(self, cls, id):
+        """method"""
+        pass
+
+    def count(self, cls=None):
+        """method"""
+        pass
 
     def save(self):
         """serializes __objects to the JSON file (path: __file_path)"""
